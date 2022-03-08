@@ -1,0 +1,11 @@
+.DS_Store
+*.csv
+*.odt
+*.txt
+.idea/
+*.jar
+*.class
+*.iml
+target/
+maven-status/
+maven-archiver/
